@@ -1,0 +1,5 @@
+Categorical Var,Numeric Var,Confounders Used,OLS Effect,OLS p-value,PSM ATT
+type,price,"continent, points",7.9198627877988494,0.0,8.109014432799082
+type,points,"continent, price",0.18349658725188944,1.1786874624614619e-29,-1.550202798738141
+continent,price,"type, points",0.24025085575616115,0.16969695565272971,9.635553561125715
+continent,points,"type, price",0.001862888100921074,0.905215366019628,-1.6575261234694523
