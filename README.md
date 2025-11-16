@@ -16,7 +16,7 @@ This project investigates potential causal relationships between wine characteri
   - **Propensity Score Matching (PSM)**: Matches similar observations to estimate causal effects of categorical treatments.
   - **Logistic Regression**: Models probability of treatment assignment.
   - **Nearest Neighbor Matching**: Matches wines with similar covariate distributions.
-- Exported statistically testing results into separate `.csv` file `causal_inference_summary_auto_conf.csv` for easy comparison.
+- Exported statistical testing results into separate `.csv` file `causal_inference_summary_auto_conf.csv` for easy comparison.
   
 ## Tools and Libraries
 | Purpose | Libraries Used |
