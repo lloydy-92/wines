@@ -50,6 +50,7 @@ OKCupid/
 ├── wines.ipynb        # Main analysis notebook
 ├── causal_inference_summary_auto_conf.csv    # Exported table/.csv file of causal inference statistical analysis results
 ├── requirements.txt          # Python dependencies
+├── analysis.md               # Written analysis file
 └── README.md                 # Project documentation
 ```
 
